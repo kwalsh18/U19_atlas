@@ -1,0 +1,24 @@
+objectNames,isPoint,isContour,Type
+C1Left,0,1,3
+C1Right,0,1,4
+C2Left,0,1,5
+C2Right,0,1,6
+C3Left,0,1,7
+C3Right,0,1,8
+C4Left,0,1,9
+C4Right,0,1,10
+C5Left,0,1,11
+C5Right,0,1,12
+C6Left,0,1,13
+C6Right,0,1,14
+C7Left,0,1,15
+C7Right,0,1,16
+C8Left,0,1,17
+C8Right,0,1,18
+Contour Name 1,0,1,19
+Grey,0,1,20
+Remove,0,1,21
+T1Left,0,1,22
+T1Right,0,1,23
+Calbindin,1,0,1
+V1 Calbindin,1,0,2
